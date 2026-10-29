@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_bg4.jpeg.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\bg4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\layout_notification_widget.xml.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\layout\\notification_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_logo_app.png.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\logo_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_ic_crown.xml.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\ic_crown.xml"
+    },
+    {
+        "merged": "com.jahanmusic.app-debug-63:/drawable_splash_invisible.xml.flat",
+        "source": "com.jahanmusic.app-main-65:/drawable/splash_invisible.xml"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_ic_launcher_fg_layered.xml.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\ic_launcher_fg_layered.xml"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_loading.png.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_bg7.jpeg.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\bg7.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\xml_music_widget_info.xml.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\xml\\music_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_bg3.jpeg.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\bg3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_img_loading_screen.png.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\img_loading_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_all_music.jpg.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\all_music.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_notification_widget.jpg.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\notification_widget.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_img_access.jpg.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\img_access.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_bg6.jpeg.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\bg6.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_glassmorphism.jpg.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\glassmorphism.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_bg2.jpeg.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\bg2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_widget_background.xml.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\widget_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_equalizer.jpg.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\equalizer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_bg5.jpeg.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\bg5.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_playback_screen.jpg.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\playback_screen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_home.jpg.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\home.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_bg8.jpeg.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\bg8.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\mipmap-hdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_bg1.jpeg.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\bg1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\layout_widget_music.xml.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\layout\\widget_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-debug-63:\\drawable_ic_launcher_square.png.flat",
+        "source": "C:\\Users\\Persia system\\.gradle\\daemon\\9.6.0\\com.jahanmusic.app-main-65:\\drawable\\ic_launcher_square.png"
+    }
+]

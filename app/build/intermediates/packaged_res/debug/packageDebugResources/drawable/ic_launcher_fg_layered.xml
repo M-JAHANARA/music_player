@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Launcher foreground: ic_launcher_square.png is a TRUE SQUARE crop of the
+     logo (circle centered on a 1060x1060 canvas), so it can never render as
+     an oval — there is no aspect ratio left to distort. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:left="0dp"
+        android:top="0dp"
+        android:right="0dp"
+        android:bottom="0dp"
+        android:drawable="@drawable/ic_launcher_square"
+        android:gravity="fill" />
+</layer-list>

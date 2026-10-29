@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jahan Music</string>
+    <string name="access_title">دسترسی به موسیقی</string>
+    <string name="access_description">برای پخش آهنگ‌ها لطفاً اجازه دسترسی به فایل‌های موسیقی را بدهید</string>
+    <string name="access_allow">اجازه دسترسی</string>
+    <string name="access_later">بعداً</string>
+    <string name="nav_home">خانه</string>
+    <string name="nav_songs">آهنگ‌ها</string>
+    <string name="nav_albums">آلبوم‌ها</string>
+    <string name="nav_settings">تنظیمات</string>
+    <string name="search_hint">جستجو در آهنگ‌ها...</string>
+    <string name="all_songs">همه آهنگ‌ها</string>
+    <string name="playlists">پلی‌لیست‌ها</string>
+    <string name="albums">آلبوم‌ها</string>
+    <string name="favorites">علاقه‌مندی‌ها</string>
+    <string name="settings_title">تنظیمات</string>
+    <string name="equalizer">اکولایزر</string>
+    <string name="bass">باس</string>
+    <string name="virtualizer">مجازی‌ساز</string>
+
+</resources>

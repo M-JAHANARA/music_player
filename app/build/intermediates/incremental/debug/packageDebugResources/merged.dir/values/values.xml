@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_magenta">#E040FB</color>
+    <color name="accent_pink">#FF80AB</color>
+    <color name="accent_purple">#B388FF</color>
+    <color name="dark_background">#0A0A1A</color>
+    <color name="dark_surface">#1A1A2E</color>
+    <color name="dark_surface_variant">#16213E</color>
+    <color name="nav_background">#1A1A2E</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <string name="access_allow">اجازه دسترسی</string>
+    <string name="access_description">برای پخش آهنگ‌ها لطفاً اجازه دسترسی به فایل‌های موسیقی را بدهید</string>
+    <string name="access_later">بعداً</string>
+    <string name="access_title">دسترسی به موسیقی</string>
+    <string name="albums">آلبوم‌ها</string>
+    <string name="all_songs">همه آهنگ‌ها</string>
+    <string name="app_name">Jahan Music</string>
+    <string name="bass">باس</string>
+    <string name="equalizer">اکولایزر</string>
+    <string name="favorites">علاقه‌مندی‌ها</string>
+    <string name="nav_albums">آلبوم‌ها</string>
+    <string name="nav_home">خانه</string>
+    <string name="nav_settings">تنظیمات</string>
+    <string name="nav_songs">آهنگ‌ها</string>
+    <string name="playlists">پلی‌لیست‌ها</string>
+    <string name="search_hint">جستجو در آهنگ‌ها...</string>
+    <string name="settings_title">تنظیمات</string>
+    <string name="virtualizer">مجازی‌ساز</string>
+    <style name="Theme.JahanMusic" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/dark_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.JahanMusic.Starting" parent="@style/Theme.JahanMusic">
+        <item name="android:windowSplashScreenBackground">@color/dark_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_invisible</item>
+    </style>
+</resources>

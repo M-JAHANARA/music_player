@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.JahanMusic" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/dark_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- Launch window only: plain dark background (the loading page's colour)
+         with NO logo page in front of it — the Compose LoadingScreen is the
+         very first page the user sees when opening the app. -->
+    <style name="Theme.JahanMusic.Starting" parent="@style/Theme.JahanMusic">
+        <item name="android:windowSplashScreenBackground">@color/dark_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_invisible</item>
+    </style>
+</resources>

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jahanmusic.app-mergeDebugResources-61:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Persia system\\.gradle\\caches\\9.6.0\\transforms\\d758619d9701159f78e6e98c0ca0fa15\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Persia system\\.gradle\\caches\\9.6.0\\transforms\\e07d16ac8f59742118b046890e617098\\transformed\\media3-session-1.4.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "347,413,474,540",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "408,469,535,602"
+                    }
+                }
+            ]
+        }
+    ]
+}

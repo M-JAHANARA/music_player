@@ -1,0 +1,7 @@
+com.jahanmusic.app-updated_navigation_xml-0 C:\Users\Persia system\Desktop\android\app\build\generated\updated_navigation_xml\debug
+com.jahanmusic.app-packageDebugResources-1 C:\Users\Persia system\Desktop\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.jahanmusic.app-packageDebugResources-2 C:\Users\Persia system\Desktop\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.jahanmusic.app-debug-3 C:\Users\Persia system\Desktop\android\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.jahanmusic.app-debug-4 C:\Users\Persia system\Desktop\android\app\src\debug\res
+com.jahanmusic.app-main-5 C:\Users\Persia system\Desktop\android\app\src\main\res
+gradleHome-0 C:\Users\Persia system\.gradle
