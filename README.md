@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:17102D,75:54258A,100:09090B&height=240&section=header&text=JAHAN%20MUSIC&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=YOUR%20MUSIC.%20YOUR%20MOMENT.&descSize=17&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:17102D,75:54258A,100:09090B&height=240&section=header&text=JAHAN%20MUSIC&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=YOUR%20MUSIC.%20YOUR%20MOMENT.&descSize=17&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=B78AFF&center=true&vCenter=true&width=600&lines=MORE+THAN+JUST+A+MUSIC+PLAYER;A+NEW+WAY+TO+EXPERIENCE+MUSIC;DESIGNED+FOR+MUSIC+LOVERS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=B78AFF&center=true&vCenter=true&width=600&lines=MORE+THAN+JUST+A+MUSIC+PLAYER;A+NEW+WAY+TO+EXPERIENCE+MUSIC;DESIGNED+FOR+MUSIC+LOVERS"/>
 
 <br/>
 
